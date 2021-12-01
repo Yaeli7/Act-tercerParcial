@@ -14,7 +14,7 @@
                 <span aria-hidden="true">&times;</span>
             </button>
         </div>
-    @endif       
+    @endif  
   
 
     <a href="{{url('ProductosC/create')}}" class="btn btn-success mb-5"><i class="fas fa-plus"></i></a>
